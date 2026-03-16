@@ -32,3 +32,12 @@ function stopbutton() {
 stopbutton();
 
 console.log(`${hours} : ${minute} : ${second} `);
+
+/*
+echo "# Practice_advancedTypes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Salman03076/Practice_advancedTypes.git
+git push -u origin main*/
